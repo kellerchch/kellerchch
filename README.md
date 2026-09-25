@@ -1,1 +1,7 @@
-# chriskeller-chriskeller
+I've been a product marketer since 2003 and like to build stuff. I started building hands-on things like furniture, and that moved into software in that late 2008 timeframe. In 2015, I did nights and weekends bootcamp with Dev Mountain and learned frontend web development and formed some key friendships. Together, we built some software for people to be accountable with each other based on their goals to overcome challenges in their lives and to make character improvements. 
+
+In 2019, I left a corporate demand gen marketing role to work for a productivity software company in the task management space and formed relationships with developers across the globe and designers. That led to lots of ideas that, in 2020, I created under the AppDev brand, which led to work for other clients building airsoft applications with the global outsourcing contract team. 
+
+I then found two technical co-founders, and we built some creator software for those making games, enterprise training, or learning material in the 3D interactive experience we ran that for 3 years and built an awesome product, but didn't have a good outcome. I moved on to be head of revenue in a growth company, but still, on the side, continue to work on product ideas. My passions are at the intersection of people, experiences, and productivity hacks. 
+
+I'm working on Spriggs.io, which mashes journaling together with task management together with a contact address book (so I can keep track of what I do for when and what additional tasks are necessary to help people in their lives). This allows me to have great personal interactions with people that I care for. 

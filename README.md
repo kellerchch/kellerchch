@@ -1,7 +1,8 @@
 # Hi, I'm Chris 👋
 
-Product marketer since 2005, healthcare marketer since 2010, fractional CMO and AppDevv.com founder since 2019, Co-founder in 2022, and CRO since 2024 who has been building software since 2015.
-My passions sit at the intersection of people, experiences, and technology and I really like finding/creating productivity hacks.
+I love the outdoors, traveling, mountain biking, running, and public events (i.e. concerts, fairs, street markets). I'm a father of four, deeply focused on helping my kids achieve their dreams, a person of deep conviction in my faith, and I'm very committed to friendships, reunions and meeting new people. I am a big believer in the power of casual connections to surface meaningful opportunities.
+
+I really like finding/creating productivity hacks.
 
 ### How I got here
 - I was a tinkerer since early in life, building go-karts, tearing apart motors, welding, and making furniture as a hobbyist.
